@@ -34,3 +34,4 @@ let itemCount = 5;
 console.log("Summary:");
 console.log("Variable userName:", userName);
 console.log("Variable itemCount:", itemCount);
+///////////
